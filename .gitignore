@@ -1,0 +1,15 @@
+# Ignore datasets
+datasets/
+*.jpg
+*.png
+*.npy
+
+# Ignore YOLO runs and weights
+runs/
+*.pt
+*.onnx
+
+# Ignore virtual envs and logs
+venv/
+__pycache__/
+*.log
