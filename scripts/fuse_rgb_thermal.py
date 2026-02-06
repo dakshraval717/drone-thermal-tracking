@@ -1,5 +1,5 @@
-
-### replaces B channel with IR in RGB images from all 50 drone runs
+#!/usr/bin/env python3
+# ### replaces B channel with IR in RGB images from all 50 drone runs
 
 
 import os
